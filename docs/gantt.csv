@@ -1,0 +1,11 @@
+Week,Focus,Start day,Duration days,Dependency,Deliverable
+1,Environment and Git,1,5,None,Repository README and initial structure
+2,Backlog and kickoff,6,5,Week 1,Prioritized 10 to 15 stories
+3,Proposal and planning,11,5,Week 2,Proposal Gantt and risk register
+4,Requirements and use cases,16,5,Week 3,Use cases and UML use case diagram
+5,Class and sequence design,21,5,Week 4,Class and sequence diagrams
+6,Architecture,26,5,Week 5,Architecture and component diagram
+7,Design pattern,31,5,Week 6,Factory Method example and reflection
+8,Unit tests,36,5,Week 7,Unit test suite
+9,CI pipeline,41,5,Week 8,GitHub Actions workflow
+10,Sprint and final hand-in,46,5,Week 9,Release checklist and presentation
