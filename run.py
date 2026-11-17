@@ -1,0 +1,1 @@
+from backend.app import main`n`nif __name__ == "__main__": main()
